@@ -4,10 +4,10 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 
 ## What is going on lately?
 
-Here are some projects I've been workin on recently:
+Here are some projects I've been workin' on recently:
 - Pandask 🐼 -- task management tool
 - Tenebriculum 🌙 -- fantasy RPG game with strong emphasis on narrative
-- Octasm 🤪 -- Chip8 interpreter for Atmega microprocessors and desktops
+- Octasm 🎱 -- Chip8 interpreter for Atmega microprocessors and desktops
 - Basements & Earwigs 🎲 -- innovative tabletop RPG game
 - a lot of small web projects ⌨️
 
