@@ -13,13 +13,13 @@ Here are some projects I've been workin' on recently:
 
 ## Technologies
 
-I work mostly with Vue and React to develop web applications. 
+I work mostly with Vue and React for developing web applications. 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,react,bun,nodejs,figma&theme=light)](https://skillicons.dev)
 
 I'm also familiar with C and C++ programming and currently learning Rust for some low level programming. I'm also quite experienced with Python and C#. 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,bash&=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python&=light)](https://skillicons.dev)
 
 For local scripting I use mainly bash.
 
