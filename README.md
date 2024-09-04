@@ -6,8 +6,8 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 
 Here are some projects I've been workin' on recently:
 - Pandask 🐼 -- task management tool
-- Tenebriculum 🌙 -- fantasy RPG game with strong emphasis on narrative
-- Octasm 🎱 -- Chip8 interpreter for Atmega microprocessors and desktops
+- Fishqi 🐟 -- flashcard app
+- Lampa 💡 -- fun and useful weather app
 - Basements & Earwigs 🎲 -- innovative tabletop RPG game
 - a lot of small web projects ⌨️
 
