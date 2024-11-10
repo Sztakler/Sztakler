@@ -5,6 +5,7 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 ## What is going on lately?
 
 Here are some projects I've been workin' on recently:
+- No Longer Human 🕷️ -- psychological horror game
 - Pandask 🐼 -- task management tool
 - Fishqi 🐟 -- flashcard app
 - Lampa 💡 -- fun and useful weather app
