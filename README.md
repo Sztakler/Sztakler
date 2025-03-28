@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-Hi, I'm Krystian. I'm a amateur web and game developer working with my close friends in Kiki/Bouba Game Studio.
+Hi, I'm Krystian. I'm a amateur web and game developer working with my close friends in Kiki/Bouba Game Studio. Feel free to take a look at my [portfolio](https://sztakler.github.io/portfolio/) 😉
 
 ## What is going on lately?
 
