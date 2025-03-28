@@ -4,17 +4,22 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 
 ## What is going on lately?
 
-Here are some projects I've been workin' on recently:
+👷 Here are some projects I've been workin' on recently:
 - No Longer Human 🕷️ -- psychological horror game
+- Redi 🏃 -- mobile sport app
+
+✔️ Completed: 
+- [Lampa](https://github.com/Sztakler/Lampa) 💡 -- fun and useful weather app
+- [Ale Jazda!](https://github.com/Sztakler/driver-license-uwr) 🏎️ -- driver license learning platform
+
+🛑 On hold:
 - Pandask 🐼 -- task management tool
 - Fishqi 🐟 -- flashcard app
-- Lampa 💡 -- fun and useful weather app
 - Basements & Earwigs 🎲 -- innovative tabletop RPG game
-- a lot of small web projects ⌨️
 
 ## Technologies
 
-I work mostly with Vue and React for developing web applications. 
+I primarily work with Vue and React for web development, and I usually use React Native for mobile applications.
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,react,bun,nodejs,figma&theme=light)](https://skillicons.dev)
 
