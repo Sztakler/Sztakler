@@ -9,6 +9,7 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 - Redi 🏃 -- mobile sport app
 
 ✔️ Completed: 
+- [Curves](https://github.com/Sztakler/curves) 〰️ -- interactive app for editing and manipulating Bézier, B-spline, and similar curves
 - [Lampa](https://github.com/Sztakler/Lampa) 💡 -- fun and useful weather app
 - [Ale Jazda!](https://github.com/Sztakler/driver-license-uwr) 🏎️ -- driver license learning platform
 
