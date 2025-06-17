@@ -16,7 +16,7 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 
 🛑 On hold:
 - Pandask 🐼 -- task management tool
-- Fishqi 🐟 -- flashcard app
+- Fishqi 🐟 -- free and open source alternative to Quizlet
 - Basements & Earwigs 🎲 -- innovative tabletop RPG game
 
 ## Technologies
