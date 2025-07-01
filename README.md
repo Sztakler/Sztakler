@@ -16,7 +16,7 @@ Hi, I'm Krystian. I'm a web and game developer working with my close friends in 
 
 🛑 On hold:
 - Pandask 🐼 -- task management tool
-- Fishqi 🐟 -- free and open source alternative to Quizlet
+- Quizvar 🐟 -- free and open source alternative to Quizlet
 - Basements & Earwigs 🎲 -- innovative tabletop RPG game
 
 ## Technologies
