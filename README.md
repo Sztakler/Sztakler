@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-Hi, I'm Krystian. I'm a amateur web and game developer working with my close friends in Kiki/Bouba Game Studio. Feel free to take a look at my [portfolio](https://sztakler.github.io/portfolio/) 😉
+Hi, I'm Krystian. I'm a web and game developer working with my close friends in Kiki/Bouba Game Studio. Feel free to take a look at my [portfolio](https://sztakler.github.io/portfolio/) 😉
 
 ## What is going on lately?
 
@@ -9,10 +9,10 @@ Hi, I'm Krystian. I'm a amateur web and game developer working with my close fri
 - Redi 🏃 -- mobile sport app
 
 ✔️ Completed:
-- [Clone](https://github.com/Sztakler/clone) 🤖 -- real-time web app for monitoring and controlling robots using FastAPI and React
-- [Curves](https://github.com/Sztakler/curves) 〰️ -- interactive app for editing and manipulating Bézier, B-spline, and similar curves
-- [Lampa](https://github.com/Sztakler/Lampa) 💡 -- fun and useful weather app
-- [Ale Jazda!](https://github.com/Sztakler/driver-license-uwr) 🏎️ -- driver license learning platform
+- [Clone](https://github.com/Sztakler/clone) 🤖 -- real-time web app for monitoring and controlling robots (FastAPI. React)
+- [Curves](https://github.com/Sztakler/curves) 〰️ -- interactive app for editing and manipulating Bézier, B-spline, and similar curves (Python, Pygame, PygameGUI)
+- [Lampa](https://github.com/Sztakler/Lampa) 💡 -- fun and useful weather app (Vue)
+- [Ale Jazda!](https://github.com/Sztakler/driver-license-uwr) 🏎️ -- driver license learning platform (React, ExpressJS)
 
 🛑 On hold:
 - Pandask 🐼 -- task management tool
