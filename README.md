@@ -9,6 +9,7 @@ Hi, I'm Krystian. I'm a web and game developer working with my close friends in 
 👷 Here are some projects I've been workin' on recently:
 - No Longer Human 🕷️ -- psychological horror game
 - Redi 🏃 -- mobile sport app
+- [Chips&Rust](https://github.com/Sztakler/chips-and-rust) 🎮 -- CHIP-8 emulator written in Rust 🦀
 
 ✔️ Completed:
 - [Clone](https://github.com/Sztakler/clone) 🤖 -- real-time web app for monitoring and controlling robots (FastAPI. React)
@@ -38,4 +39,5 @@ For local scripting I use mainly bash.
 When it comes to game development I took a liking to Godot and Unity:
 
 [![My Skills](https://skillicons.dev/icons?i=unity,godot&theme=light)](https://skillicons.dev)
+
 
