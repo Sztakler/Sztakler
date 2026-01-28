@@ -31,7 +31,7 @@ I primarily work with Vue and React for web development, and I usually use React
 
 I'm also familiar with C and C++ programming and currently learning Rust for some low level programming. I'm also quite experienced with Python and C#. 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python&=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,rust&=light)](https://skillicons.dev)
 
 For local scripting I use mainly bash.
 
@@ -40,6 +40,7 @@ For local scripting I use mainly bash.
 When it comes to game development I took a liking to Godot and Unity:
 
 [![My Skills](https://skillicons.dev/icons?i=unity,godot&theme=light)](https://skillicons.dev)
+
 
 
 
