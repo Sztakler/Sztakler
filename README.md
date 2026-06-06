@@ -2,7 +2,7 @@
 
 # Hello there! 👋
 
-Hi, I'm Krystian. I'm a web and game developer working with my close friends in Kiki/Bouba Game Studio. Feel free to take a look at my [portfolio](https://sztakler.github.io/portfolio/) 😉
+Hi, I'm Krystian. I'm a web and game developer working with my close friends in [Kiki/Bouba Team](https://github.com/Kiki-Bouba-Team). Feel free to take a look at my [portfolio](https://sztakler.github.io/portfolio/) 😉
 
 ## What is going on lately?
 
